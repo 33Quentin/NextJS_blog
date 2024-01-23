@@ -1,0 +1,38 @@
+/* components/ArticleForm.module.css */
+.article-form {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .article-form label {
+    display: block;
+    margin-bottom: 8px;
+  }
+  
+  .article-form input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+  }
+
+  .article-form textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+    
+  }
+  
+  .article-form button {
+    background-color: #0070f3;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+  }
+  
+  .article-form button:hover {
+    background-color: #0056b3;
+  }
+  
